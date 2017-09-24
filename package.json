@@ -1,6 +1,6 @@
 {
   "name": "hamming",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calculate the Hamming distance between two strings.",
   "main": "hamming.js",
   "directories": {

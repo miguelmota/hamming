@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Verdana,Geneva,sans-serif;
+  color: #000;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: normal;
+  display: inline-block;
+}
+
+.Container {
+  padding-top: 40px;
+}
+
+.Result {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  font-size: 14px;
+  padding: 5px;
+  width: 280px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 14px;
+  padding: 5px;
+}

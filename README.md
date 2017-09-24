@@ -4,6 +4,10 @@
 
 The Hamming distance measures the minimum number of substitutions required to change one string into the other of equal length.
 
+# Demo
+
+[https://lab.miguelmota.com/hamming](https://lab.miguelmota.com/hamming)
+
 # Install
 
 ```bash
@@ -20,6 +24,8 @@ console.log(hammingDistance('for', 'foo')); // 1
 console.log(hammingDistance('foobar', 'fudbaz')); // 3
 console.log(hammingDistance('unequal', 'length')); // null
 ```
+
+Hamming distance requires both strings to have the same length.
 
 # Test
 
